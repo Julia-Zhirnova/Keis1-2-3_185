@@ -12,7 +12,9 @@ using System.Threading.Tasks;
 
 namespace ClassLibrary
 {
+
     public class vsscodde
+    
     {
      
         public void add(int a, int b)
@@ -38,7 +40,9 @@ namespace ClassLibrary
     }
 }
 
-Консольное приложение: using System;
+Консольное приложение: 
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -48,10 +52,13 @@ using ClassLibraryCode;
 
 namespace ConsoleAppCode
 {
+
     class Program
     {
+    
         static void Main(string[] args)
         {
+        
             Console.WriteLine(vsscodde.GetStudNumber("Иванов Иван Иванович", DateTime.Now, Convert.ToInt32("12")));
             Assembly a = Assembly.Load("ClassLibraryCode");
             Object o = a.CreateInstance("ClassLibraryCode.vsscodde"); 
@@ -64,6 +71,7 @@ namespace ConsoleAppCode
             Console.ReadLine();
         }
     }
+    
 }
 
    
