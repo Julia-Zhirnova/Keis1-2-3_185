@@ -53,8 +53,6 @@ namespace ConsoleAppCode
         static void Main(string[] args)
         {
             Console.WriteLine(vsscodde.GetStudNumber("Иванов Иван Иванович", DateTime.Now, Convert.ToInt32("12")));
-            Console.ReadKey();
-
             Assembly a = Assembly.Load("ClassLibraryCode");
             Object o = a.CreateInstance("ClassLibraryCode.vsscodde"); 
             Type t = a.GetType("ClassLibraryCode.vsscodde");
