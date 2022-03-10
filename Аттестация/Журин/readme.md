@@ -1,7 +1,8 @@
 ![задание](https://user-images.githubusercontent.com/67784048/157656593-4922919e-5bd6-4895-b355-86fec51d924f.png)
 ![задание3](https://user-images.githubusercontent.com/67784048/157656657-2ac8e90c-0360-4147-aefb-f037cd73f3cd.png)
-![задание2](https://user-images.githubusercontent.com/67784048/157661032-f50862b2-fe5c-4ee1-b326-61bb74dba389.png)
-![задание4](https://user-images.githubusercontent.com/67784048/157656669-74a62f20-ca2b-4bbd-8e0b-7371322bff9e.png)
+![задание2](https://user-images.githubusercontent.com/67784048/157663317-30bce5b0-caf6-4cec-bfcc-483ae210e439.png)
+![задание4](https://user-images.githubusercontent.com/67784048/157663350-ad23a173-7668-49cc-bff4-718a901136f7.png)
+
 
 Библиотека: using System;
 using System.Collections.Generic;
